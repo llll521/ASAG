@@ -5,5 +5,7 @@ Run the train.py file for this project.
 
 Version Requirements:
 PyTorch 2.0
+
 CUDA 12.2
+
 Python 3.12.4
